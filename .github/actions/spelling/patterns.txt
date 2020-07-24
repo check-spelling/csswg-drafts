@@ -1,5 +1,6 @@
 data:[a-zA-Z=;,/0-9+]+
 https://github\.com/[^/]+/[^/]+/[^/]+/[0-9a-f]+
+https://hg\.csswg\.org/drafts/rev/[0-9a-f]+
 \bw3\.org/mid/[^@]*\@
 \bmid:[^@]*\@
 \bgrid:\s*"[a-z]*"
