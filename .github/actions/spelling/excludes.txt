@@ -1,6 +1,7 @@
 ^\.github/.*/
 \.ai$
 \.eot$
+\.fr\.
 \.gif$
 \.graffle$
 \.icc$
