@@ -12,5 +12,6 @@
 \.idraw$
 \.png$
 \.svg$
+\.ttf$
 \.woff$
 ignore$
