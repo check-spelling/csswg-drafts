@@ -1,0 +1,12 @@
+^\.github/.*/
+\.ai$
+\.eot$
+\.gif$
+\.graffle$
+\.icc$
+\.ico$
+\.icm$
+\.png$
+\.svg$
+\.woff$
+ignore$
