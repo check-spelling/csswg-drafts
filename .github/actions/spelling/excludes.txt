@@ -1,6 +1,7 @@
 ^\.github/.*/
 ^css-regions-1/examples/
 ^css-template-1/challenge-05/source\.html$
+^css-writing-modes-./vosimple\.txt$
 \.ai$
 \.eot$
 \.fig$
