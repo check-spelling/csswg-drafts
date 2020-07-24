@@ -12,6 +12,7 @@
 \.idraw$
 \.jpg$
 \.png$
+\.psd$
 \.svg$
 \.ttf$
 \.woff$
