@@ -10,6 +10,7 @@
 \.ico$
 \.icm$
 \.idraw$
+\.jpg$
 \.png$
 \.svg$
 \.ttf$
