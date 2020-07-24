@@ -1,4 +1,5 @@
 ^\.github/.*/
+^css-template-1/challenge-05/source\.html$
 \.ai$
 \.eot$
 \.fr\.
