@@ -10,6 +10,7 @@
 \.ico$
 \.icm$
 \.idraw$
+\.indd$
 \.jpg$
 \.png$
 \.psd$
