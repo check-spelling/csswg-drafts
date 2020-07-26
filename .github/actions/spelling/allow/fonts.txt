@@ -1,2 +1,7 @@
+dlig
+Gochi
+Gulim
 helvetica
+Hira
 Hiragino
+Hoefler
